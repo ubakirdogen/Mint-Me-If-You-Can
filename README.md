@@ -35,4 +35,4 @@ $ npx hardhat run ./scripts/mintNFT.js --network rinkeby
 ```
 
 You can display the minted NFT on an NFT marketplace, for example on OpenSea using the following link:
-**https://testnets.opensea.io/assets/<NFT Contract Address>/<Token ID>**
+**https://testnets.opensea.io/assets/-NFT Contract Address-/-Token ID-**
